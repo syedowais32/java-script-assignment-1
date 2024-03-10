@@ -72,3 +72,4 @@ var a = "hello"
 var b = "world"
 var c = a + " " + b + "!"
 alert(c) // this will display hello world in the alert box
+// shjdhfgsjdhfgjsdghf
